@@ -6,4 +6,4 @@ const boton = document.getElementById('click');
 
 boton.addEventListener('click', () => {
   titulo.style.color = 'brown';
-});
+}); 
